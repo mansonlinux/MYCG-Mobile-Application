@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1036799733527",
+    "firebase_url": "https://mycgmobileapps-18d9f.firebaseio.com",
+    "project_id": "mycgmobileapps-18d9f",
+    "storage_bucket": "mycgmobileapps-18d9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036799733527:android:3b5e0bba07d3817b",
+        "android_client_info": {
+          "package_name": "com.example.hisyam.mycgmobileapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036799733527-rt2iiq1rucnbs2gtf9e2e4cm4rg8kliu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hisyam.mycgmobileapps",
+            "certificate_hash": "aa90da8ca02a66d7e5cb147a19f55c6526dd08ad"
+          }
+        },
+        {
+          "client_id": "1036799733527-ltd2oehqqnms95k99ba3tr5so2eui9d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd6I7kSIz13Ga1SC4hXPa5VssZzu4AHBI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036799733527-ltd2oehqqnms95k99ba3tr5so2eui9d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

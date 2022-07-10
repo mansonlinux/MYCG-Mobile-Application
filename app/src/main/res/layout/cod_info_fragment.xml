@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cod_info_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#353b48"
+    android:layout_gravity="center">
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:text="CoD BO4 Lobby Tournament"
+        android:textColor="@color/Cloud"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.091"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:background="@color/Cloud"
+        android:padding="2dp"
+        android:text="MY 5v5 Amateur Tournament"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="@+id/textView11"
+        app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="217dp"
+        android:text="Registration Starts : 1 Nov 2018  12:00 PM \nRegistration Ends : 15 Nov 2018 4:00 PM \nTournament Schedule \nTournament Type : Single Elimination \nTournament Size : 8 Teams (Max) \nTeam Size : 5 Player(s) \nPrice Pool : RM350 \nChampion : RM150 \n1st Runner up : RM100 \n2nd Runner up : RM50 \n* To register your account please click on register \n and submit your 'TEAM NAME','TEAM LOGO (png)' \n and 'TEAM PLAYER'."
+        android:textColor="@color/Cloud"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView8"
+        app:layout_constraintTop_toBottomOf="@+id/textView8"
+        app:layout_constraintVertical_bias="0.021" />
+
+    <Button
+        android:id="@+id/Registerteambtn"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/buttonradius2"
+        android:padding="10dp"
+        android:text="Register Team"
+        android:textColor="@color/Cloud"
+        android:textSize="17sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView12"
+        app:layout_constraintVertical_bias="0.03" />
+
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MYCG v1.5</string>
+    <string name="mycg_mobile_apps">MYCG Mobile Apps</string>
+    <string name="pass_hint">password...</string>
+    <string name="Passwordhint">Password...</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_settings_text">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+</resources>
