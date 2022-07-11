@@ -1,4 +1,4 @@
 # MYCG Mobile Application (2018)
-MYCG Mobile Applicaion : Malaysian Youth Competitive Gaming
+MYCG Mobile Application : Malaysian Youth Competitive Gaming
 
 To be add later
